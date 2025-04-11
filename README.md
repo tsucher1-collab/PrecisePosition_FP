@@ -1,11 +1,14 @@
 # COSMIC-2 (C211) Precise Positioning with GNSS
 
-📂 REPOSITORY INFORMATION
+
+
+📂 **REPOSITORY INFORMATION**
 
 Data folder holds RINEX (.22O), SP3(.SP3), and CLOCK(.CLK) files (among other things)
 
-##src_code1a.ipynb --> source code for Question 1##
-##q2a --> source code for Question 2##
+**src_code1a.ipynb --> source code for Question 1**
+
+**q2a --> source code for Question 2**
 
 
 ## 📋 Project Description
