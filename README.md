@@ -22,10 +22,10 @@ Python implementation of a GNSS positioning algorithm for COSMIC-2 satellite C21
 📊 Key Results
 
 
-Position Accuracy	1.2 km 3D
-Empirical Period	96.67 min
-Theoretical Period	95.42 min
-% Error	1.3%
+Position Accuracy	1.2 km 3D//
+Empirical Period	96.67 min//
+Theoretical Period	95.42 min//
+% Error	1.3%//
 Orbit Period Plot
 
 
@@ -34,8 +34,8 @@ Orbit Period Plot
 Developed for GNSS, Precise Positioning (Prof. Yao, 2025) at Saint Louis University.
 Methodology:
 
-Dual-frequency pseudorange correction
-Weighted least-squares estimation
+Dual-frequency pseudorange correction,
+Weighted least-squares estimation,
 Keplerian orbital mechanics validation
 
 🙋 FAQ
